@@ -17,5 +17,5 @@ A imagem a baixo mostra a metodologia proposta pelos autores em seu trabalho.
 Após a implementação obtivemos os seguintes resultados que podem ser observados nas imagens abaixo:
 
 <div>
-<img src="" width="980px" />
+<img src="https://user-images.githubusercontent.com/54995990/166152887-49dfe82d-56a4-409e-aef3-b4547cfc1f6d.png" width="980px" />
 </div>
