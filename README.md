@@ -16,6 +16,13 @@ A imagem abaixo mostra a metodologia proposta pelos autores em seu trabalho.
 
 Após a implementação obtivemos os seguintes resultados que podem ser observados nas imagens abaixo:
 
+Imagens normais
 <div>
 <img src="https://user-images.githubusercontent.com/54995990/166152887-49dfe82d-56a4-409e-aef3-b4547cfc1f6d.png" width="980px" />
+</div>
+
+
+Imagens médicas
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/166153064-eb8422f1-bbca-45a7-97cf-137598d063c4.png" width="980px" />
 </div>
