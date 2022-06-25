@@ -1,4 +1,4 @@
-# 03-Zero-Learning_Image-Fusion
+# Zero-Learning_Image-Fusion
 
 OBS: Caso o Github não renderize o arquivo .ipynb <a href="https://nbviewer.org/github/Julio-M39/03-Zero-Learning_Image-Fusion/blob/main/Zero-Learning_%28Image-Fusion%29.ipynb/">Clique aqui!</a> 
 
